@@ -13,9 +13,9 @@ export default function Index() {
       <Header />
       <Banner />
       <MintForm />
-      <About />      
+      <About />
       <TimeLine />
-      <Team />
+      {/* <Team /> */}
       <Faq />
       <Footer />
     </>
